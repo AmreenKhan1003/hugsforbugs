@@ -1,4 +1,4 @@
-fetch("../models/c_products.json")
+fetch("../models/advanced_java_products.json")
 .then(function(response){
    return response.json();
 })
