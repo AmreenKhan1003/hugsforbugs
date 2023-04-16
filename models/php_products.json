@@ -1,0 +1,50 @@
+[
+    {
+       "id": 1,
+       "img": "M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z",
+       "title": "Introduction to PHP",
+       "description": "PHP is an HTML-based server-side scripting language. It can handle dynamic content, databases, session tracking, and even complete e-commerce sites. MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server are among the common databases it supports."      
+    },
+    {
+      "id": 2,
+      "img": "M4.745 3A23.933 23.933 0 003 12c0 3.183.62 6.22 1.745 9M19.5 3c.967 2.78 1.5 5.817 1.5 9s-.533 6.22-1.5 9M8.25 8.885l1.444-.89a.75.75 0 011.105.402l2.402 7.206a.75.75 0 001.104.401l1.445-.889m-8.25.75l.213.09a1.687 1.687 0 002.062-.617l4.45-6.676a1.688 1.688 0 012.062-.618l.213.09",
+      "title": "Decisions and loop",
+      "description": "Making Decisions, Doing Repetitive tasks with looping, Mixing Decisions, and looping with HTML."
+     },
+     {
+      "id": 3,
+      "img": "M6.75 7.5l3 2.25-3 2.25m4.5 0h3m-9 8.25h13.5A2.25 2.25 0 0021 18V6a2.25 2.25 0 00-2.25-2.25H5.25A2.25 2.25 0 003 6v12a2.25 2.25 0 002.25 2.25z",
+      "title": "Functions",
+      "description": "Call by value and reference, recursive function, string creation and access, string Search and replacement, string formatting, string related library function."
+     },
+     {
+      "id": 4,
+      "img": "M15.75 15.75V18m-7.5-6.75h.008v.008H8.25v-.008zm0 2.25h.008v.008H8.25V13.5zm0 2.25h.008v.008H8.25v-.008zm0 2.25h.008v.008H8.25V18zm2.498-6.75h.007v.008h-.007v-.008zm0 2.25h.007v.008h-.007V13.5zm0 2.25h.007v.008h-.007v-.008zm0 2.25h.007v.008h-.007V18zm2.504-6.75h.008v.008h-.008v-.008zm0 2.25h.008v.008h-.008V13.5zm0 2.25h.008v.008h-.008v-.008zm0 2.25h.008v.008h-.008V18zm2.498-6.75h.008v.008h-.008v-.008zm0 2.25h.008v.008h-.008V13.5zM8.25 6h7.5v2.25h-7.5V6zM12 2.25c-1.892 0-3.758.11-5.593.322C5.307 2.7 4.5 3.65 4.5 4.757V19.5a2.25 2.25 0 002.25 2.25h10.5a2.25 2.25 0 002.25-2.25V4.757c0-1.108-.806-2.057-1.907-2.185A48.507 48.507 0 0012 2.25z",
+      "title": "Handling Html Form with Php",
+      "description": "Capturing form, data dealing with multi-value fields, and generating file uploaded form, redirecting a form after submission."
+     },
+     {
+      "id": 5,
+      "img": "M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 00-3.7-3.7 48.678 48.678 0 00-7.324 0 4.006 4.006 0 00-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 003.7 3.7 48.656 48.656 0 007.324 0 4.006 4.006 0 003.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3",
+      "title": "Working with files and Directories",
+      "description": "Understanding file & directory, opening and closing a file, copying, renaming and deleting a file, working with directories, creating and deleting a folder, file uploading and downloading."
+     },
+     {
+      "id": 6,
+      "img": "M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z",
+      "title": "Session and Cookie",
+      "description": "Introduction to session control, session functionality, introduction to cookie, setting cookies with PHP, using cookies with sessions, deleting cookies, registering session variables, destroying the variables and session."
+     },
+     {
+      "id": 7,
+      "img": "M7.5 8.25h9m-9 3H12m-9.75 1.51c0 1.6 1.123 2.994 2.707 3.227 1.129.166 2.27.293 3.423.379.35.026.67.21.865.501L12 21l2.755-4.133a1.14 1.14 0 01.865-.501 48.172 48.172 0 003.423-.379c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0012 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018z",
+      "title": "Database Connectivity with MySql",
+      "description": "Introduction to RDBMS, connection with MySql Database, performing basic database operation (DML) (Insert, Delete, Update, Select), setting query parameter, executing query join (Cross joins, Inner joins, Outer Joins, Self joins)."
+     },
+     {
+      "id": 8,
+      "img": "M6.429 9.75L2.25 12l4.179 2.25m0-4.5l5.571 3 5.571-3m-11.142 0L2.25 7.5 12 2.25l9.75 5.25-4.179 2.25m0 0L21.75 12l-4.179 2.25m0 0l4.179 2.25L12 21.75 2.25 16.5l4.179-2.25m11.142 0l-5.571 3-5.571-3",
+      "title": "Exception Handling",
+      "description": "Understanding exception and error, try, catch, throw, error tracking and debugging."
+     }
+]
